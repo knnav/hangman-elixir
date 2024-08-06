@@ -1,0 +1,2 @@
+defmodule HangmanTest do
+end
